@@ -5,12 +5,19 @@ The program was initially written by fly-metothemoon and I added to it. He is wa
 
 
 when you run the program, it will prompt like this
+
 Enter Originating City (3 letter abbreviation) - phl
+
 Enter Destination City - cun
+
 Enter Starting Date (format m/d/yy) - 7/8/23
+
 Enter End Date (format m/d/yy) - 7/12/23
+
 Non stop only  (0 = yes, 1 = no) - 0
+
 Show Return Flights  (0 = no, 1 = yes) - 1
+
 
 07/08/23
 No GW flights from PHL to CUN
