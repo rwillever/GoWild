@@ -56,4 +56,5 @@ CUN to PHL: Philadelphia available:
 flight 1. Nonstop   07-12 10:25 AM 3 hrs 44 min $84.76
 
 done
+
 Hit Enter to end program (a text file called Gw Results.txt is stored in the same folder as your program)
