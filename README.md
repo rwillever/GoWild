@@ -22,11 +22,13 @@ Show Return Flights  (0 = no, 1 = yes) - 1
 07/08/23
 
 No GW flights from PHL to CUN
+
 No GW flights from CUN to PHL
 
 07/09/23
 
 No GW flights from PHL to CUN
+
 No GW flights from CUN to PHL
 
 07/10/23
