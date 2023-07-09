@@ -14,7 +14,7 @@ Enter Starting Date (format m/d/yy) - 7/8/23
 
 Enter End Date (format m/d/yy) - 7/12/23
 
-Non stop only  (0 = yes, 1 = no) - 0
+Non stop only  (0 = no, 1 = yes) - 1
 
 Show Return Flights  (0 = no, 1 = yes) - 1
 
