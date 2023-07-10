@@ -18,6 +18,7 @@ Non stop only  (0 = no, 1 = yes) - 1
 
 Show Return Flights  (0 = no, 1 = yes) - 1
 
+Then the results will print out.
 
 07/08/23
 
